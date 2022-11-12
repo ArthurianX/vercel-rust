@@ -14,3 +14,4 @@ node_modules/
 
 fixtures/**/vercel.json
 Cargo.lock
+.npmrc
