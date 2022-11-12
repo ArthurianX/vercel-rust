@@ -7,8 +7,9 @@
   "homepage": "https://github.com/Arthurianx/vercel-rust",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Arthurianx/vercel-rust.git"
+    "url": "git+https://github.com/Arthurianx/vercel-rust.git"
   },
+  "private": false,
   "scripts": {
     "build": "tsc",
     "prepublishOnly": "tsc",
@@ -41,5 +42,12 @@
     "singleQuote": true,
     "tabWidth": 2,
     "trailingComma": "none"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/Arthurianx/vercel-rust/issues"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "author": ""
 }
