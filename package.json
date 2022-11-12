@@ -1,5 +1,5 @@
 {
-  "name": "@arthurianx/vercel-rust",
+  "name": "arthurianx-vercel-rust",
   "description": "Rust runtime for Vercel Functions.",
   "version": "4.0.0",
   "license": "MIT",
