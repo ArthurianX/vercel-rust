@@ -1,13 +1,13 @@
 {
   "name": "vercel-rust",
   "description": "Rust runtime for Vercel Functions.",
-  "version": "3.1.2",
+  "version": "4.0.0",
   "license": "MIT",
   "main": "./dist/index",
-  "homepage": "https://github.com/vercel-community/rust",
+  "homepage": "https://github.com/Arthurianx/vercel-rust",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vercel-community/rust.git"
+    "url": "https://github.com/Arthurianx/vercel-rust.git"
   },
   "scripts": {
     "build": "tsc",
