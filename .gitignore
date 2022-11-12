@@ -10,6 +10,7 @@ target/
 dist/
 node_modules/
 .vercel/
+.idea/
 
 fixtures/**/vercel.json
 Cargo.lock
