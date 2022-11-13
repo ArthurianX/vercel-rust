@@ -1,0 +1,15 @@
+{
+  "builds": [
+    {
+      "src": "api/**/*.rs",
+      "use": "file:/Users/arthur.kovacs/Sites/vercel-rust"
+    }
+  ],
+  "probes": [
+    {
+      "path": "/api/hello.rs",
+      "status": 200,
+      "mustContain": "Hello, world!"
+    }
+  ]
+}
